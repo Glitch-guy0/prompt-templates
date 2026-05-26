@@ -1,5 +1,3 @@
-## Blog flow structure
-
 final blog structure flow
 Subject heading
 Sub heading
