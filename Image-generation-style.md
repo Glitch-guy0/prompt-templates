@@ -1,6 +1,69 @@
 
-Minimalist isometric technical blueprint style. Fine-line architectural drawing on a clean, off-white or light cream textured paper background with subtle grid lines. Utilizes a cohesive, soft pastel color palette (e.g., pastel blues, mint greens, dusty pinks, lavender, soft yellows) for all technical components and flow lines. Features clean flow-diagram overlays with directional arrows and minimalist sans-serif labels in a contrasting pastel color. High-precision educational infographic aesthetic, clean white-space, no decorative clutter.
+# Image Generation Style Guide
+
+## Core Aesthetic
+
+**Style**: Minimalist isometric technical blueprint  
+**Precision**: High-precision educational infographic  
+**Philosophy**: Clean white-space, zero decorative clutter
 
 ---
 
-A clean isometric technical blueprint of a computer network system on a beige drafting paper background with light grid lines. The design features servers and load balancers drawn in thin-line isometric perspective. Includes a flow-diagram overlay with blue directional arrows labeled 'DATA INFLOW' connecting components. The image contains annotated callouts such as 'High Availability' and 'Round Robin' with clear, minimalist typography. Limited color palette of technical blues, slate grays, and neutral tones. High-precision architectural drawing style, educational infographic aesthetic.
+## Visual Elements
+
+### Background & Paper Texture
+- **Base**: Clean, off-white or light cream textured paper
+- **Details**: Subtle grid lines for technical reference
+- **Effect**: Creates drafting paper authenticity
+
+### Line Work
+- **Technique**: Fine-line architectural drawing
+- **Perspective**: Thin-line isometric perspective
+- **Weight**: Consistent, precise line weights
+
+### Color Palette
+
+#### Option 1: Soft Pastels
+- Pastel blues
+- Mint greens
+- Dusty pinks
+- Lavender
+- Soft yellows
+- *All technical components and flow lines use this cohesive palette*
+
+#### Option 2: Technical Neutrals
+- Technical blues
+- Slate grays
+- Neutral tones
+- *Limited, sophisticated palette for professional contexts*
+
+### Typographic Treatment
+- **Font**: Minimalist sans-serif
+- **Color**: Contrasting pastel or neutral tone
+- **Usage**: Labels and clear, concise annotations
+- **Style**: Professional, readable at any scale
+
+---
+
+## Diagram Components
+
+### Flow Diagrams
+- Clean overlay structure
+- Directional arrows showing data or process flow
+- Minimalist labels (e.g., 'DATA INFLOW')
+
+### Annotated Callouts
+- Technical terminology (e.g., 'High Availability', 'Round Robin')
+- Clear, direct placement
+- Supporting the visual hierarchy
+
+---
+
+## Example Application: Network Architecture
+
+**Subject**: Computer network system  
+**Background**: Beige drafting paper with light grid  
+**Main Elements**: Isometric servers and load balancers  
+**Overlays**: Blue directional arrows, data flow labels  
+**Annotations**: Technical callouts with minimalist typography  
+**Result**: Professional, educational, scannable technical diagram
